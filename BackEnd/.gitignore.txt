@@ -1,0 +1,7 @@
+Connected Services/
+Dependencias/
+Properties/
+Data/Migrations/
+.vs/
+
+.vs/BackEnd/DesignTimeBuild
